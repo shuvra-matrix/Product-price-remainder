@@ -17,9 +17,9 @@ price3 = f"{price1}{price2}"
 finalprice = int(float(price3))
 
 
-sender = 'shuvratcp@gmail.com'
-password = 'iamacool'
-receiver = 'shuvra232@gmail.com'
+sender = ''
+password = ''
+receiver = ''
 massage = f"iPhone 12 price is now {real_price} . Hurry!"
 
 if finalprice < 70000:
